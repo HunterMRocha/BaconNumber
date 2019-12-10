@@ -19,5 +19,4 @@ Actor 1 name: Morgan Freeman
 Actor 2 name: Keke Palmer
 Path Between Morgan Freeman and Keke Palmer: 
 Morgan Freeman --> Robert Wisdom --> Keke Palmer
-```"#Six-Degrees-of-Kevin-Bacon" 
-"# BaconNumber" 
+
