@@ -2,13 +2,11 @@
 
 Runtime of Breadth-First-Search is Θ(|V| + |E|).
 
-Since we do *breadth first* instead of *depth first*, and return the first connection found, we know that we are finding a path with the *smallest amount of connections.* 
-
 # Compiling and Running
 
 This project must be compiled with `json-simple`
 
-Here's a way to compile and run the project on a Mac
+Instructions on how to compile: 
 
 ```bash
 javac -cp json-simple-1.1.1.jar*.java
